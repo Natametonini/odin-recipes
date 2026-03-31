@@ -1,0 +1,36 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: #e4cfb9;
+}
+
+.image {
+    display: block;
+    height: 80px;
+    width: auto;
+    margin: auto;
+}
+
+.title {
+    margin-top: 0;
+    text-align: center;
+}
+
+.top {  
+    background-color: rgb(231, 178, 6);
+    padding: 30px;
+    margin-bottom: 4.5em;
+}
+
+.recipe {
+    margin-left: 380px;
+    border: solid orange 2px;
+    padding: 10px;
+    text-decoration-line: none;
+}
+
+#recipesTitle {
+    text-align: center;
+}
